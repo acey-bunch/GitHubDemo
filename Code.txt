@@ -1,2 +1,3 @@
 Test file for GitHub integration demos
 Added line.
+Added line.
